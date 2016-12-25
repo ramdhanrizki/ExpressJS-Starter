@@ -1,0 +1,19 @@
+{
+  "name": "express_starter",
+  "version": "1.0.0",
+  "description": "Simple NodeJS Starter Pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramdhan Rizki",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^4.7.4",
+    "multer": "^1.2.1"
+  }
+}
